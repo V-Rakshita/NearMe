@@ -210,7 +210,14 @@ saravanastore.html
 
 ## OUTPUT
 
-![alt text](output.jpg)
+![alt text](lntss.png)
 
+![alt text](saravanass.png)
+
+![alt text](kedarss.png)
+
+![alt text](palmshoress.png)
+
+![alt text](mainss.png) ![alt text](commerss.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
